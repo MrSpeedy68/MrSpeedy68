@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=MrSpeedy68&count_private=true&show_icons=true&theme=bear)](https://mrspeedy68.github.io/AdrianHebel/index.html)
+
 <!--
 **MrSpeedy68/MrSpeedy68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
